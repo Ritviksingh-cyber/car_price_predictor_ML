@@ -18,9 +18,6 @@ This application uses the following technologies:
 - Streamlit: A Python library for building web applications with simple Python scripts.
 - Scikit-learn: A Python library for machine learning.
 
-## Demo
-
-You can see a live demo of this application [here](link-to-live-demo).
 
 ## Dataset
 
